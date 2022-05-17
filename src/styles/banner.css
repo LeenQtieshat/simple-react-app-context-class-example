@@ -1,0 +1,8 @@
+.banner{
+    height:600px;
+    background-image: url("../images/bk.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+
+}
